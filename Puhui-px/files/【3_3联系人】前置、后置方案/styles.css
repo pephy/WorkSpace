@@ -1,0 +1,109 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:14689px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u7417_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:14689px;
+  height:4316px;
+}
+#u7417 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:14689px;
+  height:4316px;
+}
+#u7417_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u7418_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:439px;
+  height:45px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';
+  font-style:normal;
+}
+#u7418 {
+  border-width:0px;
+  position:absolute;
+  left:509px;
+  top:14px;
+  width:439px;
+  height:45px;
+  font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';
+  font-style:normal;
+}
+#u7418_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:439px;
+  white-space:nowrap;
+}
+#u7419_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:727px;
+  height:45px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';
+  font-style:normal;
+}
+#u7419 {
+  border-width:0px;
+  position:absolute;
+  left:509px;
+  top:2447px;
+  width:727px;
+  height:45px;
+  font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';
+  font-style:normal;
+}
+#u7419_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:727px;
+  white-space:nowrap;
+}
